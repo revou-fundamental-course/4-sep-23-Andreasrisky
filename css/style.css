@@ -1,0 +1,29 @@
+
+.header{
+    background-color: antiquewhite;
+    text-align: center;
+    position: relative;
+    padding: 20px;
+}
+
+.persegi{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+.contoh{
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.as{
+    text-align: center;   
+    background-color: blueviolet;
+    padding: 10px;
+}
